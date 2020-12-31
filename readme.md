@@ -21,8 +21,8 @@ Projek ini di init menggunakan perintah ```npx react-native init simple_stack_na
 
 # Running Project
 
-- ```git clone https://github.com/crocodication/dogs_app.git```
-- ```cd dogs_app```
+- ```git clone https://github.com/crocodication/simple_stack_navigation_app.git```
+- ```cd simple_stack_navigation_app```
 - ```npm install```
 
 Jika menggunakan MacOS, lakukan juga
