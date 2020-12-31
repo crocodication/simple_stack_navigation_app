@@ -37,7 +37,7 @@ Kemudian
 
 Semoga dengan sample project ini bisa mengambil poin - poin sebagai berikut
 
-- Pemetaan Type untuk props navigasi, berguna untuk memunculkan suggest auto-complete props pada pemanggilan fungsi navigasi
+- Pemetaan Type untuk fungsi navigasi, berguna untuk memunculkan suggest auto-complete fungsi - fungsi navigasi
 
 ![Type untuk props komponen](./screenshots/1.png)
 
